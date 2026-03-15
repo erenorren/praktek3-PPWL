@@ -1,0 +1,18 @@
+JAWABAN
+
+Soal 1:
+var memungkinkan variabel dideklarasikan ulang dan nilainya dapat diubah, sedangkan const (konstanta) bersifat tetap 
+dan akan menyebabkan error jika kita mencoba mengubah nilainya setelah ditetapkan.
+
+Soal 2:
+Karena memungkinkan menyisipkan variabel langsung ke dalam string tanpa harus memutus string dengan tanda kutip dan tanda + berulang kali, 
+sehingga kode lebih bersih, mudah dibaca, dan mengurangi kesalahan pengetikan.
+
+Soal 3:
+classList.toggle akan memeriksa apakah kelas tersebut sudah ada pada elemen: 
+jika sudah ada maka akan dihapus dan jika belum ada maka akan ditambahkan. 
+
+Soal 4:
+.map() berguna untuk mengubah daftar data objek produk menjadi elemen HTML kartu produk secara otomatis, 
+sehingga tidak perlu menulis elemen HTML satu per satu untuk setiap produk.
+
